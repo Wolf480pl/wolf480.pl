@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+@import "roboto.css";
+@import "roboto-fallback.css";
+
+html, body {
+	margin-bottom: 0;
+}
+
+body {
+	background: #111;
+	color: #aaa;
+	font-family: "Roboto", "Roboto-Fallback", "Droid Sans", "Helvetica", "Arial", sans-serif;
+	line-height: 1.4;
+}
+
+section, header {
+	margin-left: 10px;
+}
+
+#me h3 {
+	display: none;
+}
+
+a {
+	color: #aaa;
+	text-decoration: inherit;
+}
+
+a:hover {
+	color: #fff;
+	/*text-shadow: 0 0 0px;*/
+}
+
+ul {
+	margin-top: -10px;
+	padding-left: 25px;
+}
+
+ul li {
+	list-style: square;
+}
+
+div#kurisu {
+	display: none;
+}
