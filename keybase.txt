@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/wolf480pl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wolf480.pl
+  * I am wolf480pl (https://keybase.io/wolf480pl) on keybase.
+  * I have a public key with fingerprint E4C2 E023 3845 4C51 B7E8  A340 73C0 4340 D233 5052
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ee40531cb45bc1439576b5f8b53ac7e3ef7e926ab0d789e04793a1239e1c768b0a",
+            "fingerprint": "e4c2e02338454c51b7e8a34073c04340d2335052",
+            "host": "keybase.io",
+            "key_id": "73c04340d2335052",
+            "kid": "0101ee40531cb45bc1439576b5f8b53ac7e3ef7e926ab0d789e04793a1239e1c768b0a",
+            "uid": "bdb056e45eb783e7baf974adac826200",
+            "username": "wolf480pl"
+        },
+        "revoke": {
+            "sig_ids": [
+                "96e89341fb88ec9705c105c99a642f381d8990ab7ac042a0315ccf9b652ea4040f"
+            ]
+        },
+        "service": {
+            "hostname": "wolf480.pl",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466286849,
+    "expire_in": 157680000,
+    "prev": "8e4616d6448d020283b23a6b8dc3fde8ec61d2c8434cc917a89b9a3ec8cefded",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUl1oHUUUvldtTG9SiRZNUwxNpwgKaTp/uztzQe1DrfQqxjwUxV5znZk9e7NJ
+unu7u0kbrsX40IfapI0gpQ/+NaQFtaDFvhQJWI0IDVrx7+pDEdFqRRCkWEoFdTbo
+g+CjA8Mw53zn+75zZubW3FgoFT+d+GX7d392RcXln3ThMXi/r4l07E+hchONwcoB
+4z6kWW0s9FEZYYIJAMcOI0ZzRxvCmXQ8VzuB0A5TxgMGgQeSukpj3xMSMPckU4Qy
+CcR4rtBYoX4UhFEdkkYSRpmlBW4oYMqY4A43DtEeCMU49pjB3J6+TTnYobZwJE7z
+CmtOqxQGwtjG7KW2Yu8/8P+z74kVOu1r7LjAHdCeYOBpFUiPK18ZQV2KcQ5MIYnU
+brDovfF4wAVujKP9/SiByXgM8sGmYd26TlF5F5IuCMk4CbQQYKSHHUPsllK5nAZM
+EF9IiZX2lO2PKsyIY0wgtetQUBxzHKAnLbeVnAzNCnk+pn/LD1j9ftRI4iw28biN
+j2RZIy3nnrKphgWeQXtB1/7mqOkw8u0b2ZJJSNIwjlCZWKjJwpyUcNelwhVc9iPY
+1wgTqIU5wo5UYLtyIZi0IgK4S1zf5Vz4mGIqmKZMuVr4hgU+2G5d4lMj7KsZI4mn
+hNRSMTDCgM37KO9qTxSjMnWtUVW3nHZwkcomEkD7SweLd95UKJYKbatusL/37kJp
+ddc/X7ryaHth/pXqqvWv3dUuKnz5i7MfdXbB7P0z5Z7Nkt9O7njzYMdGernV3Vx6
+aeFj1nzP3/ry2qd2nHn3/Knfp77c1lN//L63L5TmxzJdOXG2vW1o2jPDf1w5Ue/Y
++MyD31y7cAj/ePTe4+rcW8dm6t/uubL61q2jrUubP1hoBed61+46vm26+/z8E5Xv
+H7it+cbFDTsPz14/vOPDIVlNXxjdMjG4e277YO/sI6p95+sPD55eWnpneXH0t8VX
+T3/SeQtsWTP8XEdv5frnqXj6oc7i15+RavWeQ0dmhn5+ceBq/WTf5R82nCz8euxi
+Mrfv5qPX2qqt7r51PcXpA4tX1y9cen5kU+tI+at1z27yDpwajv4C
+=Iqce
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wolf480pl
+
+==================================================================
+
